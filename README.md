@@ -1,6 +1,6 @@
 # Go_Cercies_iOS_app
 
-## UGAhacks 8 2023
+## UGAHacks 8 2023
 
 ### Inspiration
 

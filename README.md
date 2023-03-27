@@ -1,6 +1,6 @@
 # Go_Cercies_iOS_app
 
-## UGA Makeathon 2022
+## UGAhacks 8 2023
 
 ### Inspiration
 
